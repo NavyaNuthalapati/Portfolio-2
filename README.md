@@ -1,5 +1,4 @@
-# Portfolio-2
-# Nuthalapati Navya – Portfolio
+# Nuthalapati Navya – Portfolio2
 
 This is my personal portfolio website built with HTML, CSS, and a bit of JavaScript.  
 It showcases my profile, skills, projects, and contact details as an aspiring Frontend & Software Developer.
